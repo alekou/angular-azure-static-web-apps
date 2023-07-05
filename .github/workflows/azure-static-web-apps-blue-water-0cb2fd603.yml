@@ -1,3 +1,5 @@
+variables:
+  deployment_token: $DEPLOYMENT_TOKEN
 name: Azure Static Web Apps CI/CD
 
 on:
